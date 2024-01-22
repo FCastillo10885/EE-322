@@ -7,7 +7,7 @@
 3. Three
 - Unordered A
 - Unordered B
-- Unordered C
+- Unordered C;
 'code'
 ---
 [Link to Google](https://www.google.com)
