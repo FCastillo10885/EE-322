@@ -1,5 +1,6 @@
 # Engineering Design VI Assignment 0
 **bold**
+
 *italic*
 > **this is a bold quote**
 1. One
@@ -7,7 +8,8 @@
 3. Three
 - Unordered A
 - Unordered B
-- Unordered C;
+- Unordered C
+
 'code'
 ---
 [Link to Google](https://www.google.com)
