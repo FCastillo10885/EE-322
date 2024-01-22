@@ -8,3 +8,7 @@
 - Unordered A
 - Unordered B
 - Unordered C
+'code'
+---
+[Link to Google](https://www.google.com)
+![Github logo](image.jpg)
