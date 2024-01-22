@@ -11,4 +11,4 @@
 'code'
 ---
 [Link to Google](https://www.google.com)
-![Github logo](image.jpg)
+![Stevens logo](stevens_logo.jpg)
