@@ -11,6 +11,6 @@
 
 'code'
 ---
-[Link to Google](https://www.google.com)
+[Link to stevens website](https://www.stevens.edu)
 
 ![Stevens logo](stevens_logo.jpg)
