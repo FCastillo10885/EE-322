@@ -9,7 +9,7 @@
 - Unordered B
 - Unordered C
 
-'code'
+`code`
 ---
 [Link to Stevens website](https://www.stevens.edu)
 
