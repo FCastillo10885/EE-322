@@ -9,7 +9,7 @@
 - Unordered B
 - Unordered C
 
-`code`
+`cout << Hello World!;`
 ---
 [Link to Stevens website](https://www.stevens.edu)
 
