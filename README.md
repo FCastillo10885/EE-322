@@ -14,7 +14,7 @@ Some facts about me
 - Since I was a kid, I always hoped to become an engineer
 - Although I don't know much coding, I loved learning what I have and hope to expand my knowledge on it
 
-Here's a simple C++ code that every coding student first learned  
+Here's a simple C++ code that every coding student first learned
 
 `cout << Hello World! << endl;`  
 ---
