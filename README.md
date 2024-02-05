@@ -1,5 +1,5 @@
 # Engineering Design VI Assignment 0
-**Welcome to my GitHub page**
+**Welcome to my GitHub page.**
 *This repository is at an early stage and is subject to change as the semester continues*
 > **Welcome! My name is Frank Castillo and I am an electrical engineering major at Stevens Institute of Technology**
 Three of my favorite hobbies (in order)
