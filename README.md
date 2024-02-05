@@ -6,7 +6,7 @@ Three of my favorite hobbies (in order)
 1. Playing video games
 2. Going to the gym (weightlifting)
 3. Watching TV shows  
-Some facts about me
+Some facts about me  
 - I am a first gen American and college student, my parents immigrated from Peru
 - During COVID I learned a lot about computers and built one myself
 - Since I was a kid, I always hoped to become an engineer
