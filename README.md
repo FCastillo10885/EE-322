@@ -15,7 +15,6 @@ Some facts about me
 - Although I don't know much coding, I loved learning what I have and hope to expand my knowledge on it
 
 Here's a simple C++ code that every coding student first learned
-
 `cout << Hello World! << endl;`  
 ---
 [Link to Stevens website](https://www.stevens.edu)
