@@ -17,4 +17,5 @@ Next, was running the D Flip-Flop example which requiredt the following files:
 2. dff.vhdl
 
 ![D Flip-Flop code](D_Flip-Flop_Code.png)
+
 ![D Flip-Flop Simulation](D_Flip-Flop_Simulation.png)
