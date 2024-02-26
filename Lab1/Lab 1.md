@@ -7,7 +7,7 @@ After setting up Vivado for coding VHDL, I downloaded and imported the half-adde
 1. ha_tb.vhdl
 2. ha.vhdl
 
-![Half-adder code](Half-adder Code.png)
+![Half-adder code](Half-adder_Code.png)
 
 It's necessary to have both files before running the simulation because these two work in tandom to create the half-adder simulation
 ![Half-adder Simulation](Half-adder Simulation.png)
@@ -16,5 +16,5 @@ Next, was running the D Flip-Flop example which requiredt the following files:
 1. dff_tb.vhdl
 2. dff.vhdl
 
-![D Flip-Flop code](D Flip-Flop Code.png)
-![D Flip-Flop Simulation](D Flip-Flop Simulation.png)
+![D Flip-Flop code](D_Flip-Flop_Code.png)
+![D Flip-Flop Simulation](D_Flip-Flop_Simulation.png)
