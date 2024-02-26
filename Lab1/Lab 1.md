@@ -3,7 +3,7 @@ After studying GHDL and VHDL I installed the necessary files for this lab
 - GTKWave
 - Vivado (Coding software to run VHDL code)
 
-After setting up, I downloaded and imported the half-adder example to Vivado, this required the following files:
+After setting up Vivado for coding VHDL, I downloaded and imported the half-adder example to Vivado, this required the following files:
 1. ha_tb.vhdl
 2. ha.vhdl
 ![Half-adder code](Half-adder Code.png)
