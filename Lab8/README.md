@@ -13,7 +13,9 @@
 ![alt text](Lab8CommandLine(5).png)
 #
 ![alt text](Lab8CommandLine(6).png)
-# Part B
-![alt text](Lab8CommandLine(7).png)
 #
+![alt text](Lab8CommandLine(7).png)
+# Part B
 ![alt text](Lab8CommandLine(8).png)
+#
+![alt text](Lab8CommandLine(9).png)
