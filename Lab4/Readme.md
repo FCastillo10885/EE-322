@@ -11,8 +11,6 @@
 #
 ![alt text](Lab4CommandLine(33).png)
 #
-![alt text](Lab4CommandLine(4).png)
-#
 ![alt text](Lab4CommandLine(5).png)
 #
 ![alt text](Lab4CommandLine(6).png)
